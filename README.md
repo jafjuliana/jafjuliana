@@ -22,14 +22,16 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="Juliana-Node" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Juliana-Mongo" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Juliana-Mysql" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ##
 
 <div>    
-    <a href="mailto:jaf.juliana@gmail.com"><img
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-            target="_blank"></a>    
+    <a href="mailto:jaf.juliana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
 
   ![Snake animation](https://github.com/jafjuliana/jafjuliana/blob/output/github-contribution-grid-snake.svg)
   
